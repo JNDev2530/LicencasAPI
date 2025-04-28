@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - Painel de Chaves\Backend\ReservemeChaves</_PublishTargetUrl>
+    <History>True|2025-03-26T19:02:49.1513502Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=.\SQL2019%3bDatabase=ReservemeChaves%3bUser Id=sa%3bPassword=%40H3xt0r</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
