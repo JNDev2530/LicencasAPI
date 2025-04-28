@@ -104,8 +104,8 @@ CREATE TABLE aplicacao (
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/<seu-usuario>/minha-webapi-licencas.git
-    cd minha-webapi-licencas
+    git clone https://github.com/JNDev2530/LicencasAPI.git
+    cd LicencasAPI
     ```
 
 2. Abra o arquivo `appsettings.json` e atualize sua **connection string** para apontar ao SQL Server 2019:
